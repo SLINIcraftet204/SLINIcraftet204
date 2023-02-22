@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SLINIcraftet204
 - 👀 I’m interested in App- and Plugindevelopment
-- 🌱 I’m currently learning nothing
-- 🖥️ I’m looking to collaborate with young Developers to make `TTT-Games` (my Organisation) stronger 🤖🧑‍💻
+- 🌱 I’m currently learning systemadministration
+- 🖥️ I’m looking to collaborate with other Developers to make some nice projects 🤖🧑‍💻
 - 📫 How to reach me https://discord.ttt-games.de
 
 <!---
