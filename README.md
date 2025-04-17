@@ -3,6 +3,8 @@
 - 🌱 I’m currently active as linux-Administrator and Frontend-Developer
 - 🖥️ I’m collaborating with other Developers to make some nice projects 🤖🧑‍💻
 - 📫 reach me at https://discord.ttt-games.de
+- 👶 junior Shopware Extension developer (try my best xD)
+- 🔗 my GIT projects can be found here: https://git.ttt-games.at/public
 
 <!---
 SLINIcraftet204/SLINIcraftet204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
