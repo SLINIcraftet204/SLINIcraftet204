@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SLINIcraftet204
 - 👀 I’m interested in App- and Plugindevelopment
-- 🌱 I’m currently active as linux-Administrator and Frontend-Developer
+- 🌱 I’m currently active as Linux-Administrator and Fullstack-Developer
 - 🖥️ I’m collaborating with other Developers to make some nice projects 🤖🧑‍💻
 - 📫 reach me at https://discord.ttt-games.de
-- 👶 junior Shopware Extension developer (try my best xD)
 - 🔗 my GIT projects can be found here: https://git.ttt-games.at/public
 
 <!---
