@@ -8,7 +8,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-ttt--games.at-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ttt-games.at)
+[![Website](https://img.shields.io/badge/Website-slinicraftet204.de-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sliniecraftet204.de)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.ttt-games.de)
 [![GitHub](https://img.shields.io/badge/GitHub-SLINIcraftet204-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLINIcraftet204)
 
@@ -168,8 +168,8 @@ Build it clean. Keep it useful. Make it reliable.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SLINIcraftet204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLINIcraftet204&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SLINIcraftet204&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SLINIcraftet204&theme=tokyonight" alt="Top Languages" />
 
 <br />
 <br />
@@ -215,7 +215,7 @@ principles:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ttt--games.at-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ttt-games.at)
+[![Website](https://img.shields.io/badge/Website-slinicraftet204.de-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://slinicraftet204.de)
 [![Discord](https://img.shields.io/badge/Discord-discord.ttt--games.de-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.ttt-games.de)
 [![GitHub](https://img.shields.io/badge/GitHub-@SLINIcraftet204-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLINIcraftet204)
 
