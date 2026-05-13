@@ -8,7 +8,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-slinicraftet204.de-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sliniecraftet204.de)
+[![Website](https://img.shields.io/badge/Website-slinicraftet204.de-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://slinicraftet204.de)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.ttt-games.de)
 [![GitHub](https://img.shields.io/badge/GitHub-SLINIcraftet204-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLINIcraftet204)
 
