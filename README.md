@@ -2,7 +2,7 @@
 
 # Hey, I'm SLINIcraftet204 👋
 
-### Linux / Windows System Administrator · Fullstack Developer · Plugin & App Developer
+## Linux / Windows System Administrator · Fullstack Developer · Plugin & App Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Hello+World+is+yesterday.;I+build+plugins%2C+tools+and+server+infrastructure.;Linux%2C+Minecraft%2C+Shopware%2C+.NET+and+automation." alt="Typing SVG" />
 
@@ -115,6 +115,24 @@ Build it clean. Keep it useful. Make it reliable.
 ![Last Commit](https://img.shields.io/github/last-commit/SLINIcraftet204/SimpleTurnstile/main?style=for-the-badge&label=Last%20Commit)
 ![Language](https://img.shields.io/github/languages/top/SLINIcraftet204/SimpleTurnstile?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/SLINIcraftet204/SimpleTurnstile?style=for-the-badge)
+
+### 🎮 PC2PadHost
+
+[![Repository](https://img.shields.io/badge/Repository-PC2PadHost-181717?style=for-the-badge&logo=github)](https://github.com/SLINIcraftet204/PC2PadHost)
+![Release](https://img.shields.io/github/v/release/SLINIcraftet204/PC2PadHost?include_prereleases&sort=semver&style=for-the-badge&label=Release)
+![Latest Tag](https://img.shields.io/github/v/tag/SLINIcraftet204/PC2PadHost?sort=semver&style=for-the-badge&label=Tag)
+![Last Commit](https://img.shields.io/github/last-commit/SLINIcraftet204/PC2PadHost/main?style=for-the-badge&label=Last%20Commit)
+![Language](https://img.shields.io/github/languages/top/SLINIcraftet204/PC2PadHost?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/SLINIcraftet204/PC2PadHost?style=for-the-badge)
+
+### 📱 PC2PadClient
+
+[![Repository](https://img.shields.io/badge/Repository-PC2PadClient-181717?style=for-the-badge&logo=github)](https://github.com/SLINIcraftet204/PC2PadClient)
+![Release](https://img.shields.io/github/v/release/SLINIcraftet204/PC2PadClient?include_prereleases&sort=semver&style=for-the-badge&label=Release)
+![Latest Tag](https://img.shields.io/github/v/tag/SLINIcraftet204/PC2PadClient?sort=semver&style=for-the-badge&label=Tag)
+![Last Commit](https://img.shields.io/github/last-commit/SLINIcraftet204/PC2PadClient/main?style=for-the-badge&label=Last%20Commit)
+![Language](https://img.shields.io/github/languages/top/SLINIcraftet204/PC2PadClient?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/SLINIcraftet204/PC2PadClient?style=for-the-badge)
 
 </div>
 
